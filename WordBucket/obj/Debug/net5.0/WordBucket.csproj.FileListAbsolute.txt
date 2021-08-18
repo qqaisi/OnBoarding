@@ -1,0 +1,16 @@
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\WordBucket.exe
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\WordBucket.deps.json
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\WordBucket.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\WordBucket.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\WordBucket.dll
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\ref\WordBucket.dll
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\bin\Debug\net5.0\WordBucket.pdb
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.dll
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\ref\WordBucket.dll
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.pdb
+C:\Users\QQais\OneDrive\Desktop\OnBoard\Day1\wordbucket\obj\Debug\net5.0\WordBucket.genruntimeconfig.cache
