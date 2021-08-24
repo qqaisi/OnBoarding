@@ -1,0 +1,16 @@
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\SockPair.exe
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\SockPair.deps.json
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\SockPair.runtimeconfig.json
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\SockPair.runtimeconfig.dev.json
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\SockPair.dll
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\ref\SockPair.dll
+C:\Users\QQais\source\repos\SockPair\SockPair\bin\Debug\net5.0\SockPair.pdb
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.csproj.AssemblyReference.cache
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.AssemblyInfoInputs.cache
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.AssemblyInfo.cs
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.csproj.CoreCompileInputs.cache
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.dll
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\ref\SockPair.dll
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.pdb
+C:\Users\QQais\source\repos\SockPair\SockPair\obj\Debug\net5.0\SockPair.genruntimeconfig.cache
