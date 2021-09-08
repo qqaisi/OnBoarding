@@ -1,0 +1,6 @@
+Select E.Name , S.Salary from Employees E , Salaries S where S.EmpId=E.EmpID and S.salary>=50000 and S.salary <=100000
+
+Select D.Departmentname , count(E.EmpId) from Employees E , Department D where E.DepartmentId=D.DepartmentID group by D.departmentId
+
+Select * from Table1 T1 inner join Table2 T2 on T1.FieldId=T2.FieldId;
+
